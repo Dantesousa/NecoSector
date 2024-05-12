@@ -1,5 +1,41 @@
-<!-- Most valid html will work in here, but you have to use URL links for images. -->
-
-<h1>Welcome to Space Station 13!</h1>
-
-<i>This server is running a /tg/station 13 Git build.</i>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NecoStation 13 [BR]</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .logo {
+    width: 150px;
+    height: auto;
+    margin: 20px;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Bem vindo ao nosso Servidor!</h1>
+  <p>NecoArc te agradece, se divirta no servidor</p>
+  <a href="https://github.com/Dantesousa/NecoSector" target="_blank">
+    <img class="logo" src="https://media.discordapp.net/attachments/1238944192642813962/1239192717699842179/github.png" alt="Nosso GitHub">
+  </a>
+  <a href="https://wiki.novasector13.com/wiki/Main_Page" target="_blank">
+    <img class="logo" src="https://media.discordapp.net/attachments/1238944192642813962/1239192227616657468/NovaSector13Logo.png" alt="Wiki">
+  </a>
+  <a href="discord.gg/ME3mCQuu2W" target="_blank">
+    <img class="logo" src="https://media.discordapp.net/attachments/1238944192642813962/1239192717972602910/Novo_Projeto_1.png" alt="Discord">
+  </a>
+</div>
+</body>
+</html>
